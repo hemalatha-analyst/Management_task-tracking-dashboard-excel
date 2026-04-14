@@ -19,7 +19,8 @@ This project is an Excel-based dashboard designed to track tasks, monitor projec
 * Trend Analysis
 
 ## 📊 Dashboard Preview
-
+Management_Dashboard_Overview.png
+Management_Slicers.png
 
 
 ## 💡 Key Insights
